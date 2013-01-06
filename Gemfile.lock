@@ -1,0 +1,14 @@
+PATH
+  remote: .
+  specs:
+    kibiz0r-nunit (0.0.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kibiz0r-nunit!
